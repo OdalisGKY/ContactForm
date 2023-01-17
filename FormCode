@@ -1,0 +1,67 @@
+<form>
+
+<body bgColor="black">
+<head>
+<font color="white">
+Call us 502-555-5555<br>
+ <br>
+ Email us:<br>
+Email:<a href= "https://my.screenname.aol.com"/>bighair@salon.com</a>
+
+
+</head>
+<center>
+<font color="white"><h1><b>
+APPOINTMENT</b></h1>
+
+<h3>Let us contact you to set up an appointment.</h3>
+<h4>Responds within 10 minutes of submitted forms</h4>
+
+
+<form>
+    <ul class="errorMessages"></ul>
+	
+	
+    
+    <div>
+	<center>
+        <label for="name">First name:</label>
+        <input id="First name" type="text" required>
+    </div>
+<br>
+    <div>        
+        <label for="Last Name">Last Name:</label>
+        <input id="Last Name" type="text" required>
+    </div>
+    <br>
+	<div>        
+        <label for="Contact Number">Telephone:</label>
+        <input id="Contact Number" type="tel" maxlength="10" required>
+    </div>
+	<br>
+	<div>        
+        <label for="Extension">Ext:</label>
+        <input id="Extension" type="tel" size="2" maxlength="3">
+    </div><br>
+
+    <div class="buttons">
+	<a href="done.html"><input type="submit" value= "Submit" onclick="done.html" size="5"></a></input>
+        </div>
+	
+		</center>
+    </div>
+</form>​
+
+  <!--
+  <input type="submit" onclick="alert('Thank You. Someone will get back with you shortly')"><br>
+  <a href="form.html"><input type="submit" value= "APPOINTMENTS" onclick="Contact Us.html"></a></input> 
+  <button>Submit</button></div>
+ -->
+  </center>
+  
+  
+  
+  
+  
+  </font>
+</form>
